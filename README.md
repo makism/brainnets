@@ -1,5 +1,6 @@
 # brainnets
-A simple C++ graph analysis library
+
+A simple, crossplatform C++ graph analysis library for brain functional connectivity.
 
 ### Dependencies
 
