@@ -2,6 +2,13 @@
 
 A simple, crossplatform C++ graph analysis library for brain functional connectivity.
 
+- - -
+
+financially sponsored by [Brain Innovation B.V.](https://www.brainvoyager.com)
+
+- - -
+
+
 ### Dependencies
 
 * Eigen C++
