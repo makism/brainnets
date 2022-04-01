@@ -17,4 +17,4 @@ financially sponsored by [Brain Innovation B.V.](https://www.brainvoyager.com)
 
 ### Compilation
 
-Download and extract the source packages of Boost and Eigen at ../third-party/boost and ../third-party/eigen respectively.
+Download and extract the source packages of Boost and Eigen at ../third-party/boost and ../third-party/eigen3 respectively.
